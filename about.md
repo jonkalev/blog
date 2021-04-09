@@ -5,6 +5,7 @@ permalink: /about/
 published: true
 ---
 
+![]({{site.baseurl}}/https://avatars.githubusercontent.com/u/81805797?s=400&u=c6d3b73a5e92223ed00b39d01ce8a9ed4d0bece0&v=4)
 **Jon Kalev** (born 1966) 
 Hi welcome to my little web site! I'm a landscape architect and planner. Since retiring in 2019 Kalev I have  been using my camera and drawings to document the rural landscapes. 
 I am espcially interested in the resultant urban form of racially segregated landscapes.
