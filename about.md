@@ -6,8 +6,9 @@ published: true
 ---
 
 ![]({{site.baseurl}}/https://avatars.githubusercontent.com/u/81805797?s=400&u=c6d3b73a5e92223ed00b39d01ce8a9ed4d0bece0&v=4)
+<img src="https://avatars.githubusercontent.com/u/81805797?s=400&u=c6d3b73a5e92223ed00b39d01ce8a9ed4d0bece0&v=4)" width="500" height="600">
 **Jon Kalev** (born 1966) 
-Hi welcome to my little web site! I'm a landscape architect and planner, Since retiring from practice I have been using my fuji x camera and ink drawings to document cultural landscapes.  
+**Hi welcome to my little blog!** I'm a landscape architect and planner, Since retiring from practice I have been using my fuji x camera and ink drawings to document cultural landscapes.  
 
 I am interested in the resultant urban form of racially segregated landscapes of the American South and how rural landscapes develop cultural uniqueness and regional identities.
 
