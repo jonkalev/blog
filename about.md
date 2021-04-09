@@ -5,11 +5,12 @@ permalink: /about/
 published: true
 ---
 
-**Jon Kalev** (born 1966) is a landscape architect and planner, based in the black belt region of Alabama. Retired in 2019 Kalev has focused his camera and sketches researching and documenting the landscapes of the rural south. His photographs have become a critical weapons in the fight for social justice in southern Alabama. 
+**Jon Kalev** (born 1966) is a landscape architect and planner. Since retiring in 2019 Kalev has focused his camera and drawings documenting the landscapes of the rural south. 
 
-### More Information
+This website is an archive of my photogrpahy and drawings. It is a work in progress. Pages will be updated and new ones will be added continuously. In the main column under the "blog" ink you find ongoing activities, 
 
-A place to include any other types of information that you'd like to include about yourself.
+in the pages hosted on Github under "Works" you find samples of old and new works, short descriptions, and installation photographs. Books, Prints, etc are listed under "Shop".
+Please contact me by email with any questions or comments about this website and its contents, or if you wish to publish, exhibit, or purchase any of my works. For the purchase of books and editions please visit my "Shop".
 
 ### Contact me
 
