@@ -6,7 +6,7 @@
 name: Jon Kalev
 
 # Short bio or description (displayed in the header)
-description: Welcome to my little site!
+description: Welcome to my little blog !
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/81805797?s=400&u=c6d3b73a5e92223ed00b39d01ce8a9ed4d0bece0&v=4
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: 
-  instagram:
+  instagram:jonkalev
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
