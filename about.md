@@ -6,7 +6,7 @@ published: true
 ---
 
 ![]({{site.baseurl}}/https://avatars.githubusercontent.com/u/81805797?s=400&u=c6d3b73a5e92223ed00b39d01ce8a9ed4d0bece0&v=4)
-<img src="https://avatars.githubusercontent.com/u/81805797?s=400&u=c6d3b73a5e92223ed00b39d01ce8a9ed4d0bece0&v=4)" width="500" height="600">
+<img src="https://avatars.githubusercontent.com/u/81805797?s=400&u=c6d3b73a5e92223ed00b39d01ce8a9ed4d0bece0&v=4)" width="300" height="300">
 **Jon Kalev** (born 1966) 
 **Hi welcome to my little blog!** I'm a landscape architect and planner, Since retiring from practice I have been using my fuji x camera and ink drawings to document cultural landscapes.  
 
