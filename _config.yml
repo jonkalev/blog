@@ -18,11 +18,11 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: jonkalev@protonmail.com
-  facebook: johan.kalev.7
-  flickr:
-  github: 
   instagram: jonkalev
+  facebook: johan.kalev.7
+  github: jkalev
+  email: jonkalev@protonmail.com
+  flickr:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
