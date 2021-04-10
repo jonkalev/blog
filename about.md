@@ -18,5 +18,5 @@ In the pages under "Works" you find samples of old and new works, short descript
 Please contact me by email with any questions or comments about this website and its contents, or if you wish to publish, exhibit, or purchase any of my works. For the purchase of books and editions please visit my "Shop".
 
 ### Contact me
+email: jonkalev@protonmail.com
 
-[email@domain.com](mailto:email@domain.com)
