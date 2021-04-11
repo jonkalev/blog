@@ -5,13 +5,15 @@ permalink: /about/
 published: true
 ---
 
-I'm a landscape architect and planner, Since retiring from practice I have been using my fuji x camera, sketches, and drawings to document the cultural landscape.  
+<img src="https://avatars.githubusercontent.com/u/81805797?s=400&u=c6d3b73a5e92223ed00b39d01ce8a9ed4d0bece0&v=4)" align="left" width="200" height="200" />
+<p>
 
-I examine the "vernacular landscape" and am especially interested in the resultant urban forms of the American South and how they foster cultural uniqueness and identity from collective trauma.
+**Hi welcome to my little blog!**
+I'm a landscape architect and planner, Since retiring from practice I have been using my fuji x camera, sketches, and drawings to document the cultural landscape.  
+I examine the "vernacular landscape" and am especially interested in the resultant urban form of the American South and how it fosters cultural uniqueness and identity from collective trauma.
 Beyond a landscape being shaped by market forces or architect's ideas of physical environment physical space is mediated by advertising, access to technology, and immigration.
 These landscapes are deeply informed by contradictions and the social strata are informed in ways contradictory to historic interpretation. Lynching trees, churches burned by the klan but repeatedly rebuilt in the same place serves as unseen anchors to community identity.
-Documentary photography can capture these stories and identities in ways that momentarily reveal the complexity of the landscape which gives cultural birth.  
-
+Documentary photography can capture these identities in ways that momentarily reveal the complexity of the landscape which gives them cultural birth.  
 
 
 This website is an archive of my photography and drawings. It is a work in progress. Pages will be updated and new ones will be added continuously. In the menu under the "blog" ink you find my ongoing journal and unedited thoughts along with a few photographs.</p> 
