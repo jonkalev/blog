@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<img src="https://avatars.githubusercontent.com/u/81805797?s=400&u=c6d3b73a5e92223ed00b39d01ce8a9ed4d0bece0&v=4)" align="left" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/jkalev/blog/master/images/jon.jpg" align="left" width="200" height="200" />
 <p>
 
 **Hi welcome to my little blog!**
