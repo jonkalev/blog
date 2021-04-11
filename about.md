@@ -8,7 +8,7 @@ published: true
 <img src="https://github.com/jkalev/blog/raw/master/images/jonkalev.jpg" align="left" />
 
 
-**<h2>Hi welcome to my little blog!</h2>**
+<h2>Hi welcome to my little blog!</h2>
 I'm a landscape architect and planner, Since retiring from practice I have been using my camera, sketches, and drawings to document place.  
 I examine the "vernacular landscape" and am especially interested in the resultant urban form of the American South and how it creates cultural uniqueness and identity from historical collective trauma.
 Beyond a landscape being shaped by market forces or ideas of physical environment, physical space is mediated by advertising, access to technology, and influences of immigration.
