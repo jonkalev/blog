@@ -9,11 +9,11 @@ published: true
 
 
 **Hi welcome to my little blog!**
-I'm a landscape architect and planner, Since retiring from practice I have been using my fuji x camera, sketches, and drawings to document the cultural landscape.  
-I examine the "vernacular landscape" and am especially interested in the resultant urban form of the American South and how it fosters cultural uniqueness and identity from collective trauma.
-Beyond a landscape being shaped by market forces or architect's ideas of physical environment physical space is mediated by advertising, access to technology, and immigration.
-These landscapes are deeply informed by contradictions and the social strata are informed in ways contradictory to historic interpretation. Lynching trees, churches burned by the klan but repeatedly rebuilt in the same place serves as unseen anchors to community identity.
-Documentary photography can capture these identities in ways that momentarily reveal the complexity of the landscape which gives them cultural birth.  
+I'm a landscape architect and planner, Since retiring from practice I have been using my camera, sketches, and drawings to document place.  
+I examine the "vernacular landscape" and am especially interested in the resultant urban form of the American South and how it creates cultural uniqueness and identity from historical collective trauma.
+Beyond a landscape being shaped by market forces or ideas of physical environment, physical space is mediated by advertising, access to technology, and influences of immigration.
+These cultural landscapes are deeply informed by contradictions and the culture informed in ways contradictory to the traditional historic narrative. Lynching trees, churches burned by the Klan but repeatedly rebuilt in the same place serves as unseen anchors to community identity.
+Documentary photography captures these identities momentarily revealing the complexity of a landscape.  
 
 
 This website is an archive of my photography and drawings. It is a work in progress. Pages will be updated and new ones will be added continuously. In the menu under the "blog" ink you find my ongoing journal and unedited thoughts along with a few photographs. 
