@@ -13,7 +13,7 @@ I'm a landscape architect and planner, since retiring from practice I use my cam
 In examining the "vernacular landscape", I'm interested in the resultant urban form and how it informs cultural identity from collective trauma.
 Beyond the myth that landscape is largely shaped by market forces or architects/planners manipulating physical environment, I argue space is increasingly mediated by advertising, access to technology, and influences of immigration.
 
-Additionally landscapes are deeply informed by contradictions to the historic narrative. Lynching trees, churches burned by the Klan but repeatedly rebuilt in the same place serves as unseen anchors to community identity uniqie to a specific landscape.
+Additionally landscapes are often deeply informed by contradictions to the historic narrative. In the black belt region of ALabama where I live lynching trees, churches burned by the Klan but repeatedly rebuilt in the same place serves as unseen anchors to community identity uniqie to a specific landscape.
 Documentary photography captures these identities momentarily revealing the complexity.   
 
 
