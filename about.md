@@ -9,11 +9,12 @@ published: true
 
 
 <h2>Hi welcome to my little blog!</h2>
-I'm a landscape architect and planner, Since retiring from practice I have been using my camera, sketches, and drawings to document place.  
-I examine the "vernacular landscape" and am especially interested in the resultant urban form of the American South and how it creates cultural uniqueness and identity from historical collective trauma.
-Beyond a landscape being shaped by market forces or ideas of physical environment, physical space is mediated by advertising, access to technology, and influences of immigration.
-These cultural landscapes are deeply informed by contradictions and the culture informed in ways contradictory to the traditional historic narrative. Lynching trees, churches burned by the Klan but repeatedly rebuilt in the same place serves as unseen anchors to community identity.
-Documentary photography captures these identities momentarily revealing the complexity of a landscape.  
+I'm a landscape architect and planner, Since retiring from practice I use my camera, sketches, and drawings documenting place.  
+Examining the "vernacular landscape" I'm interested in the resultant urban form and how it creates cultural identity from collective trauma.
+Beyond the common myth landscape is shaped by market forces or designes ideas of manipulating physical environment, space is increasingly mediated by advertising, access to technology, and influences of immigration.
+
+Such cultural landscapes are deeply informed by contradictions to the historic narrative. Lynching trees, churches burned by the Klan but repeatedly rebuilt in the same place serves as unseen anchors to community identity.
+Documentary photography captures these identities momentarily revealing the complexity.   
 
 
 This website is an archive of my photography and drawings. It is a work in progress. Pages will be updated and new ones will be added continuously. In the menu under the "blog" ink you find my ongoing journal and unedited thoughts along with a few photographs. 
