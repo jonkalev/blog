@@ -10,10 +10,10 @@ published: true
 
 <h2>Hi welcome to my little blog!</h2>
 I'm a landscape architect and planner, since retiring from practice I use my camera, sketches, and drawings documenting place.  
-Examining the "vernacular landscape", I'm interested in the resultant urban form and how it creates cultural identity from collective trauma.
-Beyond the common myth that landscape is shaped by market forces or designers manipulating physical environment, I argue space is increasingly mediated by advertising, access to technology, and influences of immigration.
+In examining the "vernacular landscape", I'm interested in the resultant urban form and how it informs cultural identity from collective trauma.
+Beyond the myth that landscape is largely shaped by market forces or architects/planners manipulating physical environment, I argue space is increasingly mediated by advertising, access to technology, and influences of immigration.
 
-Such cultural landscapes are deeply informed by contradictions to the historic narrative. Lynching trees, churches burned by the Klan but repeatedly rebuilt in the same place serves as unseen anchors to community identity uniqie to a specific landscape.
+Additionally landscapes are deeply informed by contradictions to the historic narrative. Lynching trees, churches burned by the Klan but repeatedly rebuilt in the same place serves as unseen anchors to community identity uniqie to a specific landscape.
 Documentary photography captures these identities momentarily revealing the complexity.   
 
 
