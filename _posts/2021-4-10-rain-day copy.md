@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Sale day
-published: false
+published: true
 ---
 
 
 
 
 <figure>
-  <img src="https://raw.githubusercontent.com/jkalev/blog/master/images/20210302_01-2.jpg" />
-  <figcaption>Cattle trough as baptismal font, near Elba Al.</figcaption>
+  <img src="images/20210411_01-1.jpg" />
+  <figcaption>Loading calves on my farm, Edwin Al.</figcaption>
 </figure>
