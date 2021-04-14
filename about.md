@@ -21,3 +21,13 @@ This website is an archive of my photography and drawings. It is a work in progr
 
 In the pages under "Projects" you find samples of old and new works, short descriptions, and installation photographs. Books, Prints, etc are listed under "Shop".
 Please contact me by email with any questions or comments about this website and its contents, or if you wish to publish, exhibit, or purchase any of my works. For the purchase of books please visit me on <a href="https://books.apple.com/us/genre/books/id38" >Apple's itunes or on <a href="https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155">Amazon.
+  
+  Recent work
+
+2018 Back to Malheur: Two Years Later, PBS Episode of Independent Lens (film credit) In this follow up to the Malheur Takevoer journalist Hal Herring reflects on both the 41 day standoff and meaning of public land in Amnerica. -
+
+2016 “No Man’s Land” (film credit) a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon protesting a ranching family’s incarceration. The film was nominated for the Best Documentary at the Denver International Film Festival and nominated Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018.
+
+2014 Awarded the Zilphea Horton Grant by the Highlander Foundation used to research and document victims in a community ranked by Harvard's Center for Government Ethics as one of the most corrupt in the nation - Alabama’s 20th judicial district. A book of these photographs, “Save the Kennys” is forthcoming.
+
+
