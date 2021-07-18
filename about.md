@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<img src="https://github.com/jkalev/blog/raw/master/images/jonkalev.jpg" align="left" />
+<img src="https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg" align="left" alt="Calving season"/>
 
 
 <h2>Hi welcome to my little blog!</h2>
