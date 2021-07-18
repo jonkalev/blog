@@ -6,13 +6,14 @@ published: true
 ---
 
 <img src="https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg" width="500" 
-     height="266" align="left" alt="Calving season"/>
+     height="266" align="left" alt="Calving season"/> <p></p>
 
     
 
 <h2>Welcome to my little blog!</h2>
 I never thought I would grow up to be a rancher, even though my grandfather was, as was his, and his father before him.
-After two-plus decades of practicing architecture and planning, at the age of 54, I retired and bought my family's farm and a farm on Cowpen Creek in Coffee County, Alabama.<p> Maybe it's in my blood, as they say, a fate unavoidable. I spent two years in high school working at the local stockyard in Abbeville. Monday thru Friday, I watered, fed animals, and helped the vet age and treat sale animals. Friday was sale day; for 24 hours, we sorted and loaded cattle and pigs. 
+After two-plus decades of practicing architecture and planning, at the age of 54, I retired and bought my family's farm and a farm on Cowpen Creek in Coffee County, Alabama.<p> 
+     Maybe it's in my blood, as they say, a fate unavoidable. I spent two years in high school working at the local stockyard in Abbeville. Monday thru Friday, I watered, fed animals, and helped the vet age and treat sale animals. Friday was sale day; for 24 hours, we sorted and loaded cattle and pigs. 
 Saturday morning, after working all night, we had all the animals loaded, and I had a big fat check to carry my girlfriend out on a Saturday night.
   <p>Raising cattle requires long days and weeks, at times working in solitude. In all honesty, I work harder now than when I worked a real job. Instead of a computer screen and mediating disputes between those developing landscape and seeking preservation, I listen to silence as I work fences and check cows and thunderstorms roll in from the Gulf of Mexico. 
       <p>
