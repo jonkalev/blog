@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/ME.jpg" align="left" alt="Calving season"/> <
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/ME.jpg" align="left" alt="Calving season"/> 
 
     
 
