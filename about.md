@@ -16,14 +16,14 @@ After two-plus decades of practicing architecture and planning, at the age of 54
 Saturday morning, after working all night, we had all the animals loaded, and I had a big fat check to carry my girlfriend out on a Saturday night.
   <p>Raising cattle requires long days and weeks, at times working in solitude. In all honesty, I work harder now than when I worked a real job. Instead of a computer screen and mediating disputes between those developing landscape and seeking preservation, I listen to silence as I work fences and check cows and thunderstorms roll in from the Gulf of Mexico. 
       <p>
-I work alone, natural light, little or no editing, minimalistworkflow from the cab of my truck: one camera, a Fuji X pro-3, and three fixed lenses, the 16, 35, and 50. I make no effort to market myself, just word of mouth or if you stumble upon this site or Instagram account.
+I work alone, natural light, little or no editing, minimalist workflow from the cab of my truck: one camera, a Fuji X pro-3, and three fixed lenses, the 16, 35, and 50. I make no effort to market myself, just word of mouth or if you stumble upon this site or Instagram account.
 <p>
 Inspirations:  Jaques Lacan,  Walker Evans,  Robert Capa, Diane Arbus and William Allard.
   <p>
 Recent work:
       
-<p>2018 <a href="https://www.pbssocal.org/shows/independent-lens/clip/back-malheur-two-years-later-0o4iek">Back to Malheur: Two Years Later</a>, Episode of Independent Lens (film credit) In this follow up to the Malheur Takeover, journalist Hal Herring reflects on both the 41-day standoff and the meaning of public land use for cattle in America. -
-<p>2016 <a href="https://www.pbs.org/independentlens/documentaries/no-mans-land/">"No Man's Land"</a>(film credit) is a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon protesting a ranching family's incarceration. The film was nominated for Best Documentary at the Denver International Film Festival and Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
+<p>2018 <a href="https://www.pbssocal.org/shows/independent-lens/clip/back-malheur-two-years-later-0o4iek">Back to Malheur: Two Years Later</a>, Episode of Independent Lens (film and stills) In this follow up to the Malheur Takeover, journalist Hal Herring reflects on both the 41-day standoff and the meaning of public land use for cattle in America. -
+<p>2016 <a href="https://www.pbs.org/independentlens/documentaries/no-mans-land/">"No Man's Land"</a>(film & stills) is a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon protesting a ranching family's incarceration. The film was nominated for Best Documentary at the Denver International Film Festival and Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
 <p>2014 Awarded the Zilphea Horton Grant by the Highlander Foundation used to research and document victims in a community ranked by Harvard's Center for Government Ethics as one of the most corrupt in the nation - Alabama's 20th judicial district. A book of these photographs, "Save the Kennys," is forthcoming.
 
 
