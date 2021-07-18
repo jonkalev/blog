@@ -11,7 +11,8 @@ published: true
 
 <h2>Welcome to my little blog!</h2>
 I never thought I would grow up to be a rancher, even though my grandfather was, as was his, and his father before him. For seven generations my family has had cattle here.
-After two-plus decades of practicing architecture and environmental planning, at the age of 54, I retired and bought my family's farm and a farm in Coffee County, Alabama.<p> 
+After two-plus decades of practicing architecture and environmental planning, at the age of 54, I retired and bought my family's farm and a farm in Coffee County, Alabama.
+<p> 
      Maybe it's in my blood, as they say, fate unavoidable. Cows for me started in high school where I spent two years in high school working at the local stockyard in Abbeville. Monday thru Friday, I watered, fed animals, and helped the vet age and treat sale animals. Friday was sale day; for 24 hours, we sorted and loaded cattle and pigs. 
 Saturday morning, after working all night, we had the animals loaded, and I had a big fat check to carry my girlfriend out on a Saturday night. Mr. Mosely always slipped a fifty dollar bill in my pocket and told me to buy her steak.
   <p>Raising cattle requires long days and weeks, at times working in solitude. In all honesty, I work harder now than when I worked a real job. Instead of a computer screen and mediating disputes between those developing landscape and seeking preservation, I listen to silence as I work fences and check cows and thunderstorms roll in from the Gulf of Mexico. 
