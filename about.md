@@ -5,8 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<img src="https://jonkalev.s3-us-west-2.amazonaws.com/ME-2019.jpg" width="500" 
-     height="266" align="left" alt="Calving season"/> <p></p>
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/ME.jpg" align="left" alt="Calving season"/> <p></p>
 
     
 
