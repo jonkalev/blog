@@ -20,8 +20,8 @@ I work alone, natural light, little or no editing, minimalist approach usually f
 
 Inspirations:  Jaques Lacan,  Walker Evans,  Robert Capa, Diane Arbus and William Allard. 
 Recent work:
-      
-2018 <a href="https://www.pbs.org/independentlens/documentaries/no-mans-land/">Back to Malheur: Two Years Later</a>Back to Malheur: Two Years Later, PBS Episode of Independent Lens (film credit) In this follow up to the Malheur Takeover, journalist Hal Herring reflects on both the 41-day standoff and the meaning of public land use for cattle in America. -
+      https://www.pbssocal.org/shows/independent-lens/clip/back-malheur-two-years-later-0o4iek
+2018 <a href="https://www.pbs.org/independentlens/documentaries/no-mans-land/">Back to Malheur: Two Years Later</a>, Episode of Independent Lens (film credit) In this follow up to the Malheur Takeover, journalist Hal Herring reflects on both the 41-day standoff and the meaning of public land use for cattle in America. -
 2016 "No Man's Land" (film credit) is a documentary about the armed takeover of the Malheur National Wildlife Refuge in Oregon protesting a ranching family's incarceration. The film was nominated for Best Documentary at the Denver International Film Festival and Best Documentary Feature at the Tribeca Film Festival in 2017. It was awarded the Best Documentary Film at the Gasparilla International Film Festival in 2018. 
 2014 The Zilphea Horton Grant by the Highlander Foundation used to research and document victims in a community ranked by Harvard's Center for Government Ethics as one of the most corrupt in the nation - Alabama's 20th judicial district. A book of these photographs, "Save the Kennys," is forthcoming.
 
