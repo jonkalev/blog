@@ -13,9 +13,9 @@ published: true
 I never thought I would grow up to be a rancher, even though my grandfather was, as was his, and his father before him. For seven generations my family has had cattle here.
 After two-plus decades of practicing architecture and environmental planning, at the age of 54, I retired and bought my family's farm and a farm in Coffee County, Alabama.
 <p> 
-     Maybe it's in my blood, as they say, fate unavoidable. Cows for me started in high school where I spent two years in high school working at the local stockyard in Abbeville. Monday thru Friday, I watered, fed animals, and helped the vet age and treat sale animals. Friday was sale day; for 24 hours, we sorted and loaded cattle and pigs. 
+     Maybe it's in my blood, as they say, fate. Cows for me started in high school where I spent two years in high school working at the local stockyard in Abbeville. Monday thru Friday, I watered, fed animals, and helped the vet age and treat sale animals. Friday was sale day; for 24 hours, we sorted and loaded cattle and pigs. 
 Saturday morning, after working all night, we had the animals loaded, and I had a big fat check to carry my girlfriend out on a Saturday night. Mr. Mosely always slipped a fifty dollar bill in my pocket and told me to buy her steak.
-  <p>Raising cattle requires long days and weeks, at times working in solitude. In all honesty, I work harder now than when I worked a real job. Instead of a computer screen and mediating disputes between those developing landscape and seeking preservation, I listen to silence as I work fences and check cows and thunderstorms roll in from the Gulf of Mexico. 
+  <p>Raising cattle requires long days and weeks working in solitude. In all honesty, I work harder now than when I worked a real job. Instead of a computer screen and mediating disputes between those developing landscape and seeking preservation, I listen to silence as I work fences and check cows and thunderstorms roll in from the Gulf of Mexico. 
       <p>
 I work alone, with my photography I use natural light, little or no editing, minimalist workflow from the cab of my truck: one camera, a Fuji X pro-3, and three fixed lenses, the 16, 35, and 50. I make no effort to market myself, just word of mouth or if you stumble upon this site or Instagram account.
 <p>
