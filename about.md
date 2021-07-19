@@ -5,17 +5,17 @@ permalink: /about/
 published: true
 ---
 
-<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/ME.jpg" align="left" alt="Calving season"/> 
+<img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/ME_calving.jpg" align="left" alt="Calving season"/> 
 
     
 
 <h2>Welcome to my little blog!</h2>
-I never thought I would be a rancher, even though my grandfather was, as was his, and his father before him, for seven generations my family has had cattle on the same place.
+I never thought I would be a rancher, even though my grandfather was, and those before him, for seven generations my family has had cattle on the same place.
 But after two-plus decades of practicing architecture and environmental planning, at the age of 54, I retired and bought my family's farm in Alabama. Truth is its what I always wanted to do.
 <p> 
-     Cows for me started in high school FFA and where I spent two years working at a local stockyard in Abbeville, Alabama. Monday thru Friday, I watered, fed animals, and helped the vet age and treat sale animals. Friday was sale day; for 24 hours, we sorted and loaded hundreds of cattle and hogs. 
+     Cows for me started in high school FFA judging and showing animals and where I spent two years working at a local stockyard in Abbeville, Alabama. Monday thru Friday, I watered, fed animals, and helped the vet age and treat sale animals. Friday was sale day; for 24 hours, we sorted and loaded hundreds of cattle and hogs. 
 Saturday morning, after working all night I had a big check to carry my girlfriend out on a Saturday night. Mr. Benny Lisenby always slipped a fifty dollar bill in my pocket and told me to buy her a good steak.
-  <p>Raising cattle requires long days working in solitude. In all honesty, I work harder now than when I worked a so called real job. Instead of mediating disputes between those seeking preservation, and mining, energy and real estate interests, I listen to silence as I work fences and check cows and watch thunderstorms roll in from the Gulf of Mexico. 
+  <p>Reality is raising cattle requires long days working in solitude. I work harder now than when I worked a so called real job. Instead of mediating disputes between mining, energy and real estate interests, I listen to silence as I work fencelines, check cows and watch thunderstorms roll in from the Gulf of Mexico. 
       <p>
 With my photography I use natural light, little or no editing, minimalist workflow from the cab of my truck: one camera, a <a href="https://fujifilm-x.com/en-us/x-pro3/"> Fuji X Pro-3</a>, and three fixed lenses, the 16mm, 35mm, and 50mm. I make no effort to market myself, just word of mouth or if you stumble upon this site or Instagram.
 <p>
