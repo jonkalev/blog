@@ -8,7 +8,7 @@ published: true
 <!-- The grid: four columns -->
 <div class="row">
   <div class="column">
-    <img src="img_nature.jpg" alt="Nature" onclick="myFunction(this);">
+    <img src="https://jonbcarroll.s3.us-east-2.amazonaws.com/_malheur_06.jpg" alt="Nature" onclick="myFunction(this);">
   </div>
   <div class="column">
     <img src="img_snow.jpg" alt="Snow" onclick="myFunction(this);">
