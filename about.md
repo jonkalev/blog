@@ -17,7 +17,7 @@ After two-plus decades of practicing architecture and environmental planning, at
 Saturday morning, after working all night, we had the animals loaded, and I had a big fat check to carry my girlfriend out on a Saturday night. Mr. Benny Lisenby always slipped a fifty dollar bill in my pocket and told me to buy her steak.
   <p>Raising cattle requires long days and weeks working in solitude. In all honesty, I work harder now than when I worked a real job. Instead of a computer screen and mediating disputes between those developing landscape and seeking preservation, I listen to silence as I work fences and check cows and thunderstorms roll in from the Gulf of Mexico. 
       <p>
-With my photography I use natural light, little or no editing, minimalist workflow from the cab of my truck: one camera, a Fuji X pro-3, and three fixed lenses, the 16mm, 35mm, and 50mm. I make no effort to market myself, just word of mouth or if you stumble upon this site or Instagram account.
+With my photography I use natural light, little or no editing, minimalist workflow from the cab of my truck: one camera, a <a href="https://fujifilm-x.com/en-us/x-pro3/"> Fuji X Pro-3</a>, and three fixed lenses, the 16mm, 35mm, and 50mm. I make no effort to market myself, just word of mouth or if you stumble upon this site or Instagram.
 <p>
 
 Recent work:
