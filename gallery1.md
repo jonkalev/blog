@@ -5,66 +5,8 @@ permalink: /gallery1/
 published: true
 ---
 
-<!-- Slideshow container -->
-<div class="slideshow-container">
+<div class="tiled-gallery type-rectangular" data-original-width="1200" data-carousel-extra="{&quot;blog_id&quot;:1,&quot;permalink&quot;:&quot;https:\/\/www.burnmagazine.org\/essays\/2021\/07\/jelly-beans-for-breakfast-jenny-crawford\/&quot;,&quot;likes_blog_id&quot;:27836564}" itemscope="" itemtype="http://schema.org/ImageGallery"> <div class="gallery-row" style="width: 639px; height: 285px;" data-original-width="1200" data-original-height="535"> <div class="gallery-group images-1" style="width: 427px; height: 285px;" data-original-width="801" data-original-height="535"> <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"> <a href="https://www.burnmagazine.org/essays/2021/07/jelly-beans-for-breakfast-jenny-crawford/attachment/03-9/" border="0" itemprop="url"> <meta itemprop="width" content="797"> <meta itemprop="height" content="531"> <img data-attachment-id="72430" data-orig-file="https://www.burnmagazine.org/wp-content/uploads/2021/07/03.jpg" data-orig-size="1080,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1612560533&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="03" data-image-description="" data-medium-file="https://i0.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/03.jpg?fit=800%2C533&amp;ssl=1" data-large-file="https://i0.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/03.jpg?fit=1024%2C683&amp;ssl=1" src="https://i0.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/03.jpg?w=797&amp;h=531&amp;ssl=1" width="797" height="531" data-original-width="797" data-original-height="531" itemprop="http://schema.org/image" title="03" alt="03" style="width: 423px; height: 281px;"> </a> </div> </div> <!-- close group --> <div class="gallery-group images-2" style="width: 212px; height: 285px;" data-original-width="399" data-original-height="535"> <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"> <a href="https://www.burnmagazine.org/essays/2021/07/jelly-beans-for-breakfast-jenny-crawford/attachment/02-9/" border="0" itemprop="url"> <meta itemprop="width" content="395"> <meta itemprop="height" content="264"> <img data-attachment-id="72431" data-orig-file="https://www.burnmagazine.org/wp-content/uploads/2021/07/02.jpg" data-orig-size="1080,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1612564132&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="02" data-image-description="" data-medium-file="https://i2.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/02.jpg?fit=800%2C533&amp;ssl=1" data-large-file="https://i2.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/02.jpg?fit=1024%2C683&amp;ssl=1" src="https://i2.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/02.jpg?w=395&amp;h=264&amp;ssl=1" width="395" height="264" data-original-width="395" data-original-height="264" itemprop="http://schema.org/image" title="02" alt="02" style="width: 208px; height: 138px;"> </a> </div> <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"> <a href="https://www.burnmagazine.org/essays/2021/07/jelly-beans-for-breakfast-jenny-crawford/attachment/05-9/" border="0" itemprop="url"> <meta itemprop="width" content="395"> <meta itemprop="height" content="263"> <img data-attachment-id="72445" data-orig-file="https://www.burnmagazine.org/wp-content/uploads/2021/07/05.jpg" data-orig-size="1080,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="05" data-image-description="" data-medium-file="https://i2.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/05.jpg?fit=800%2C533&amp;ssl=1" data-large-file="https://i2.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/05.jpg?fit=1024%2C683&amp;ssl=1" src="https://i2.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/05.jpg?w=395&amp;h=263&amp;ssl=1" width="395" height="263" data-original-width="395" data-original-height="263" itemprop="http://schema.org/image" title="05" alt="05" style="width: 208px; height: 138px;"> </a> </div> </div> <!-- close group --> </div> <!-- close row --> <div class="gallery-row" style="width: 639px; height: 213px;" data-original-width="1200" data-original-height="401"> <div class="gallery-group images-1" style="width: 319px; height: 213px;" data-original-width="600" data-original-height="401"> <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"> <a href="https://www.burnmagazine.org/essays/2021/07/jelly-beans-for-breakfast-jenny-crawford/attachment/12-19/" border="0" itemprop="url"> <meta itemprop="width" content="596"> <meta itemprop="height" content="397"> <img data-attachment-id="72424" data-orig-file="https://www.burnmagazine.org/wp-content/uploads/2021/07/12.jpg" data-orig-size="1080,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1612560546&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="12" data-image-description="" data-medium-file="https://i0.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/12.jpg?fit=800%2C533&amp;ssl=1" data-large-file="https://i0.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/12.jpg?fit=1024%2C683&amp;ssl=1" src="https://i0.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/12.jpg?w=596&amp;h=397&amp;ssl=1" width="596" height="397" data-original-width="596" data-original-height="397" itemprop="http://schema.org/image" title="12" alt="12" style="width: 315px; height: 209px;"> </a> </div> </div> <!-- close group --> <div class="gallery-group images-1" style="width: 319px; height: 213px;" data-original-width="600" data-original-height="401"> <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"> <a href="https://www.burnmagazine.org/essays/2021/07/jelly-beans-for-breakfast-jenny-crawford/attachment/06-10/" border="0" itemprop="url"> <meta itemprop="width" content="596"> <meta itemprop="height" content="397"> <img data-attachment-id="72428" data-orig-file="https://www.burnmagazine.org/wp-content/uploads/2021/07/06.jpg" data-orig-size="1080,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1612560531&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="06" data-image-description="" data-medium-file="https://i2.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/06.jpg?fit=800%2C533&amp;ssl=1" data-large-file="https://i2.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/06.jpg?fit=1024%2C683&amp;ssl=1" src="https://i2.wp.com/www.burnmagazine.org/wp-content/uploads/2021/07/06.jpg?w=596&amp;h=397&amp;ssl=1" width="596" height="397" data-original-width="596" data-original-height="397" itemprop="http://schema.org/image" title="06" alt="06" style="width: 315px; height: 209px;"> </a> </div> </div> <!-- close group --> </div> <!-- close row --> </div>
 
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="img1.jpg" style="width:100%">
-    <div class="text">Caption Text</div>
-  </div>
+ 
 
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="img2.jpg" style="width:100%">
-    <div class="text">Caption Two</div>
-  </div>
 
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="img3.jpg" style="width:100%">
-    <div class="text">Caption Three</div>
-  </div>
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
-</div>
-<!-- Javascript -->
-var slideIndex = 1;
-showSlides(slideIndex);
-
-// Next/previous controls
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-
-// Thumbnail image controls
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1} 
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none"; 
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block"; 
-  dots[slideIndex-1].className += " active";
-}
