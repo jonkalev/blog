@@ -10,4 +10,4 @@ This is my friend Buck Turner, recently retired logger. He has spent most of his
 <p><i>“ I got lured into leaving once, a big city job ruined my mind. I spent about a week there then skedaddled right back home.”
 There is something about the woods these big pine forests and swamps. Once you stay in em a while they're home and keep calling you back”.</i>
   
-Buck is 86 and still a daylight to dark worker. He told me the only business training he needed was two things; when he went on a client's land to cut timber he acted like it was his mothers and treat it that way. Second thing is don't burn daylight, be in the woods ready when it gets light, quit when you cant see what your cuttin and go straight home. 
+Buck is 86 and still a daylight to dark worker. He told me the only business school learning he needed was two things; when he went on a client's land to cut timber he acted like it was his mothers and treated it that way. Second thing is don't burn daylight, be in the woods when it gets light, quit when you cant see what your cuttin and go straight home. Do these and it will all work out.
